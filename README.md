@@ -22,7 +22,7 @@
 Регистрация и активация через почту, разделение прав доступа. Управление данными с помощью JPA и FlyWay. Валидация данных.
 Фронт на html + Bootstrap.
 
-- [simple-microservices](https://github.com/skiflok/simple-microservices) | Spring Boot, PostgreSQL, Mongo DB, Testcontainers
+- [simple-microservices](https://github.com/skiflok/simple-microservices) | Spring Boot, PostgreSQL, Mongo DB, Testcontainers, Keycloak, Eureka, Circuit Breaker, Micrometr, Zipkin, Kafka, Docker
   <br>
   Приложение интернет магазина с использованием микросервисной архитектуры
 
