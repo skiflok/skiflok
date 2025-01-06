@@ -51,15 +51,9 @@ telegram: https://t.me/anisimov_a_v
 
 ### Мои проекты
 
-
-- [PassBot21](https://github.com/skiflok/PassBot21) | Spring Boot, Spring Data JPA, PostgreSQL, TelegramBots
+- [Backend](https://github.com/skiflok/backend_2) | Spring Boot, postres, liquibase, Nginx, Swagger, Docker
   <br>
-   Телеграм-бот для оформления заявок на проход гостей в кампусы Школы 21. Бот был написан в команде в рамках хакатона для внутренних нужд школы и занял 1 место.
-
-- [Chat](https://github.com/skiflok/Chat) |стек Spring, Netty, Logback, PSQL, Sockets
-  <br>
-   Консольный чат. Изначально написан на IO сокетах и Java 8, в последующем миграция на java 17, переход на NIO с помощью Netty, Spring для управления зависимостями и масштабируемости, БД PostgreSQL.
-Функционал: регистрация, авторизация, чатрумы, сохранение в БД.
+  Магазин бытовой техники, БД, круды, апи сваггера, обработка ошибок, докер, балансировка запросов, кеширование, реверс прокси, https.
 
 - [WebApp](https://github.com/skiflok/WebApp) | Spring (Boot, MVC, Security, JPA, FlyWay), Thymeleaf, Bootstrap
     <br>
@@ -70,6 +64,15 @@ telegram: https://t.me/anisimov_a_v
 - [simple-microservices](https://github.com/skiflok/simple-microservices) | Spring Boot, PostgreSQL, Mongo DB, Testcontainers, Keycloak, Eureka, Circuit Breaker, Micrometr, Zipkin, Kafka, Docker
   <br>
   Приложение интернет магазина с использованием микросервисной архитектуры
+
+- [PassBot21](https://github.com/skiflok/PassBot21) | Spring Boot, Spring Data JPA, PostgreSQL, TelegramBots
+  <br>
+   Телеграм-бот для оформления заявок на проход гостей в кампусы Школы 21. Бот был написан в команде в рамках хакатона для внутренних нужд школы и занял 1 место.
+
+- [Chat](https://github.com/skiflok/Chat) |стек Spring, Netty, Logback, PSQL, Sockets
+  <br>
+   Консольный чат. Изначально написан на IO сокетах и Java 8, в последующем миграция на java 17, переход на NIO с помощью Netty, Spring для управления зависимостями и масштабируемости, БД PostgreSQL.
+Функционал: регистрация, авторизация, чатрумы, сохранение в БД.
 
 [![](https://visitcount.itsvg.in/api?id=skiflok&icon=0&color=0)](https://visitcount.itsvg.in)
 
