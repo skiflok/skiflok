@@ -6,39 +6,50 @@
 
 telegram: https://t.me/anisimov_a_v
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-### 🚀 Languages:
+### Core / Backend  
+![Java 17](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-00C7B7?style=for-the-badge&logo=spring&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
+
+### Databases & Persistence  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![Flyway](https://img.shields.io/badge/Flyway-Version-Control-migration-blue?style=for-the-badge&logo=flyway&logoColor=white)  
+![Liquibase](https://img.shields.io/badge/Liquibase-DB-Migration-orange?style=for-the-badge&logo=liquibase&logoColor=white)
+
+---
+
+### Microservices / Messaging / Resilience  
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)  
+![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)  
+![Zipkin](https://img.shields.io/badge/Zipkin-70B4F0?style=for-the-badge&logo=zipkin&logoColor=white)  
+![Circuit Breaker](https://img.shields.io/badge/Circuit_Breaker-Resilience4J-white?style=for-the-badge&logo=resilience4j&logoColor=black)
+
+---
+
+### Infrastructure / DevOps / Testing  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Testcontainers](https://img.shields.io/badge/Testcontainers-263238?style=for-the-badge&logo=testcontainers&logoColor=white)  
+![JUnit 5](https://img.shields.io/badge/JUnit-5-A62824?style=for-the-badge&logo=JUnit5&logoColor=white)  
+![Mockito](https://img.shields.io/badge/Mockito-579A31?style=for-the-badge&logo=mockito&logoColor=white)  
+![OpenAPI](https://img.shields.io/badge/OpenAPI-Swagger-6BA539?style=for-the-badge&logo=openapi&logoColor=white)
+
+---
+
+### Principles & Practices  
+- Clean Code / SOLID  
+- Logging (SLF4J / Logback)  
+- Error Handling / Exception Design  
+- RESTful API Design, Documentation (Swagger / OpenAPI)  
+- Testing: Unit, Integration, Event-Driven, Resilience  
 
 
-
-### 🗄️ Databases:
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌟 Frameworks:
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?color=blue&style=for-the-badge&logo=Hibernate&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-### 💻 Other tools:
-
-![Docker](https://img.shields.io/badge/Docker-%23D42029.svg?color=blue&style=for-the-badge&logo=Docker&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-![Maven](https://img.shields.io/badge/Maven-02303A.svg?color=red&style=for-the-badge&logo=Maven&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?color=purple&style=for-the-badge&logo=figma&logoColor=white)
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 📊 GitHub Stats:
 
